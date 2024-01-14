@@ -12,6 +12,9 @@
     <modules>
         <module>app-implements</module>
         <module>annotation-processor-implements</module>
+        <module>app-log-method</module>
+        <module>annotation-processor-log-method</module>
+        <module>app-runtime-annotation</module>
     </modules>
 
     <properties>
